@@ -1,4 +1,4 @@
-      Data Visualization Tool:-
+      Data Cleaning Tool:-
       The Data Cleaner Tool is a Python-based application designed to clean CSV datasets. It provides two cleaning options:
       •   Dropping rows with missing values.
       •   Filling missing values with a specified value.
