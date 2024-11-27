@@ -58,3 +58,12 @@
          •  File Not Found: Ensure the CSV file exists and the path is correct.
          •  Invalid Option: Choose a valid cleaning option in the GUI.
          •  No Output Directory**: Specify a directory to save the cleaned file.
+         
+This README is designed to help users easily understand how to set up and use the tool.
+
+      Sample Images:-
+![clean (1)](https://github.com/user-attachments/assets/c119556c-835b-40e6-a2f1-51902c5ca3d6)
+![clean (2)](https://github.com/user-attachments/assets/ff5b1e8b-775c-4bcc-9c39-16441d6fb004)
+![clean (3)](https://github.com/user-attachments/assets/9889b049-3fe6-42cc-9794-0456eaa3275f)
+![clean (4)](https://github.com/user-attachments/assets/7cc42ab4-847d-44f9-971c-d8d0166da94f)
+
